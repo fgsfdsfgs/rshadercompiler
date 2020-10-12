@@ -10,10 +10,10 @@ This repo also includes the required XNA 1.0 libraries in `libs/`.
 
 ```
 rshadercompiler <input_file> <output_file> <type> [<main>]
-where <type> is        ps     for Xbox 360 pixel shader
-                       vs     for Xbox 360 vertex shader
-                       xvs    for Xbox 360 vertex shader assembly
-                       xps    for Xbox 360 pixel shader assembly
-                       effect for effects
+where <type> is ps     for Xbox 360 pixel shader
+                vs     for Xbox 360 vertex shader
+                xvs    for Xbox 360 vertex shader assembly
+                xps    for Xbox 360 pixel shader assembly
+                effect for effects
       <main> is the name of the entry point; defaults to main
 ```
